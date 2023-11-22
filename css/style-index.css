@@ -1,0 +1,29 @@
+#intro {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+ }
+
+ #intro strong {
+  color: #4b4453;
+ }
+
+ #introparagraph {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+ }
+
+ #leadership b {
+  color: #B875F3;
+ }
+
+ #portfolio p {
+  color: black;
+ }
+
+ #cert {
+  width: 300px;
+  align-items: center;
+  margin: auto;
+ }
